@@ -1,4 +1,24 @@
 {
+  "name": "react-redux-i18n",
+  "version": "1.0.0",
+  "description": "react-redux-i18n",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poomer123/react-redux-i18n.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poomer123/react-redux-i18n/issues"
+  },
+  "homepage": "https://github.com/poomer123/react-redux-i18n#readme",
   "dependencies": {
     "next": "^8.0.4",
     "react": "^16.8.6",
